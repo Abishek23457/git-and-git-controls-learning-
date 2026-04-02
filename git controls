@@ -5,4 +5,4 @@ git pull   getting the previous data from the repo
 git fetch  getting the data about the prj and branches to change the prj new branch  
 git checkout to check about the to change the branch the exact prj from another branch 
 git revert  --last commit  it  reverts the last changes that made in the file
-
+git init -- initialising the the prj and the repo 
