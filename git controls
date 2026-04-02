@@ -6,7 +6,7 @@ g fetch  getting the data about the prj and branches to change the prj new branc
 g checkout to check about the to change the branch the exact prj from another branch 
 g revert  --last commit  it  reverts the last changes that made in the file
 g init -- initialising the the prj and the repo 
-g rebase [branch] 
+g rebase [branch] -- changing the specific commit to new branch (to run the same prj in a new branch) 
 g rm  [filename] removing the particular file from the the commit are from the prj 
 g status  to know the details about the prj  and the commit are the changes 
 g diff branch - branch  changing the branch that one from another
